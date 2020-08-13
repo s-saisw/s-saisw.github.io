@@ -1,0 +1,9 @@
+---
+title: "Welcome!"
+---
+Welcome to Saisawat's personal website!
+
+```{r, echo=FALSE, out.width = '30%', fig.align='right'}
+library(knitr)
+knitr::include_graphics("welcomepic.jpg")
+```

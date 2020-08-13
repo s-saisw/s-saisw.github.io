@@ -1,0 +1,11 @@
+name: "my-website"
+navbar:
+  right:
+    - icon: fa-bars
+      menu:
+        - text: About Me
+        - text: My Blog
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
