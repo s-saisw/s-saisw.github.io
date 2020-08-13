@@ -3,8 +3,12 @@ navbar:
   right:
     - icon: fa-bars
       menu:
+        - text: Home
+          href: index.html
         - text: About Me
+          href: aboutme.html
         - text: My Blog
+          href: myblogpage.html
 output:
   html_document:
     theme: journal
