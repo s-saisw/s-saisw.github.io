@@ -7,7 +7,7 @@ navbar:
           href: index.html
         - text: About Me
           href: aboutme.html
-        - text: My Blog
+        - text: Other Websites
           href: myblogpage.html
 output:
   html_document:
