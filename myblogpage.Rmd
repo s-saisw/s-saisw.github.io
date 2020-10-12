@@ -3,7 +3,7 @@ title: "Other Websites"
 ---
 
 ### My Blog
-This is where I keep some of the small data science projects I do in my free time. [View my blog...](https://s-saisw.github.io/blog/)
+This is where I keep my spontaneous writings. [View my blog...](https://s-saisw.github.io/blog/)
 
 ### R Tutorial
 I also have a R Tutorial website. Materials here are adapted from the slides I used while TA’ing for Practice Session for Econometrics for Public Policy class (S2020) at the Graduate School of Public Policy, UTokyo. [Visit Metrics with R: A Tutorial...](https://s-saisw.github.io/rtutorial/)

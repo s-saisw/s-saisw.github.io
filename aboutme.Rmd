@@ -19,12 +19,15 @@ Hi! I'm Saisawat Samutpradit. I'm a PhD student in economics at the University o
 - Triam Udom Suksa School, Bangkok, Thailand, 2010-2013
 
 ### Work Experience
+- Research assistant, Empirical Studies on Japanese Labor Market (Professor Daiji Kawaguchi), Research Institute of Economy, Trade, and Industry (RIETI), 2020-present
 - Intern, Thailand Development Research Institute (TDRI), Summer 2018
 - Intern, Office of the National Economic and Social Development Board (NESDB), Summer 2016
 
 ### Teaching Experience
-- Instructor, Practice Session for Econometrics for Public Policy, University of Tokyo, S2020
-- Teaching Assistant, Econometrics for Public Policy, University of Tokyo, S2020
+- Instructor, Practice Session for Econometrics for Public Policy (Professor Rong Fu), University of Tokyo, A2020
+- Teaching Assistant, Econometrics for Public Policy (Professor Rong Fu), University of Tokyo, A2020
+- Instructor, Practice Session for Econometrics for Public Policy (Professor Daiji Kawaguchi), University of Tokyo, S2020
+- Teaching Assistant, Econometrics for Public Policy (Professor Daiji Kawaguchi), University of Tokyo, S2020
 
 ### Scholarships
 - Scholarship for ASEAN Students, Tokio Marine Kagami Memorial Foundation, 2020-2023
@@ -33,3 +36,5 @@ Hi! I'm Saisawat Samutpradit. I'm a PhD student in economics at the University o
 ### Connect with me
 - Email: saisawat-s@g.ecc.u-tokyo.ac.jp
 - [Github Profile](https://github.com/s-saisw)
+- [Twitter](https://twitter.com/saisawatSamut)
+- [Linkedin](https://www.linkedin.com/in/saisawat-samutpradit-ab64351b7/)
