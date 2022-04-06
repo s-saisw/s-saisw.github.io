@@ -8,7 +8,7 @@ title: "About Me"
 <!-- ``` -->
 <!-- </div> -->
 
-Hi! I'm Saisawat Samutpradit. I'm a PhD student in economics at the University of Tokyo. My research interests are in labor and development economics. In my free time, I play video games, watch movies, or do yoga.
+Hi! I'm Saisawat Samutpradit. I'm a PhD student in economics at the University of Tokyo. My research interests are in labor and development economics.
 
 [Download CV as pdf](https://drive.google.com/file/d/1yf4qag_ra3aC8vGJm_2HwVInD9lXtkRK/view)
 
@@ -24,8 +24,8 @@ Hi! I'm Saisawat Samutpradit. I'm a PhD student in economics at the University o
 - Intern, Office of the National Economic and Social Development Board (NESDB), Summer 2016
 
 ### Teaching Experience
-- Teaching Fellow, Practice Session for Econometrics for Public Policy (Professor Daiji Kawaguchi, Professor Rong Fu, Professor Stacey Chen), University of Tokyo (S2020, A2020, S2021, A2021)
-- Teaching Assistant, Econometrics for Public Policy (Professor Daiji Kawaguchi, Professor Rong Fu, Professor Stacey Chen), University of Tokyo (S2020, A2020, S2021, A2021)
+- Teaching Fellow, Practice Session for Econometrics for Public Policy (Professor Daiji Kawaguchi, Professor Rong Fu, Professor Stacey Chen), University of Tokyo (S2020, A2020, S2021, A2021, S2022)
+- Teaching Assistant, Econometrics for Public Policy (Professor Daiji Kawaguchi, Professor Rong Fu, Professor Stacey Chen), University of Tokyo (S2020, A2020, S2021, A2021, S2022)
 
 ### Scholarships
 - Scholarship for ASEAN Students, Tokio Marine Kagami Memorial Foundation, 2020-2023

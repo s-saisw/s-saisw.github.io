@@ -1,7 +1,8 @@
 ---
 title: "Welcome!"
 ---
-Welcome to Saisawat's personal website!
+
+Hi! I'm Saisawat Samutpradit. I'm a PhD student in economics at the University of Tokyo. My research interests are in labor and development economics.
 
 ```{r, echo=FALSE, out.width = '30%', fig.align='right'}
 library(knitr)

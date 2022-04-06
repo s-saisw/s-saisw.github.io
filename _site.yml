@@ -9,8 +9,6 @@ navbar:
           href: aboutme.html
         - text: Research
           href: research.html
-        - text: Other Websites
-          href: myblogpage.html
 output:
   html_document:
     theme: journal
