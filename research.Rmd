@@ -2,11 +2,19 @@
 title: "Research"
 ---
 
-### Working Paper
+### Working Papers
 
-- Employment Effects of Minimum Wages in Dual Economy: Evidence from Thailand. *Under review*
+- Employment Effects of Minimum Wages in Dual Economy: Evidence from Thailand. Revisions requested from *Journal of Development Economics* [Latest draft](https://drive.google.com/file/d/1ph9J3dezvwGT_80yA_vqoUvCBCK0vXzx/view?usp=sharing)
+
+-  The (Non-)surplus Labor in the Informal Sector
+
+- Husband's Death and Widows' Labor Supply Decision: Evidence from Rural Thai Households 
 
 ### Presentations
+
+- Husband's Death and Widows' Labor Supply Decision: Evidence from Rural Thai Households; [Asian and Australasian Society of Labour Economics 2022 Conference](https://www.aasle.org/); December, 2022; University of Tokyo
+
+- Husband's Death and Widows' Labor Supply Decision: Evidence from Rural Thai Households; The 25th Tokyo Labor Economics Conference (第25回労働経済学カンファレンス); September, 2022; Online meeting
 
 - Employment Effects of Minimum Wages in Dual Economy: Evidence from Thailand. [Asian and Australasian Society of Labour Economics 2021 Conference](https://www.aasle.org/); December, 2021; Peking University, Online Event
 
@@ -18,3 +26,7 @@ title: "Research"
 in Japan & Thailand. UTokyo Center of Contemporary Japanese Studies, TCJS Graduate Student Forum; November, 2020; Online meeting
 
 - Impact of Minimum Wages on Employment in Dual Economy: Evidence from Thailand. Poster presented at: [The 23rd Tokyo Labor Economics Conference](https://sites.google.com/site/tokyolaborwkshp/home) (第23回労働経済学カンファレンス); October, 2020; Online meeting
+
+### Research Grant
+
+- Bank of Thailand's [Puey Ungphakorn Institute for Economic Research](https://www.pier.or.th/en/about/#top) Grant 2022 for the Project *Husband's Death and Widows' Labor Supply Decision: Evidence from Thai Household Panel*

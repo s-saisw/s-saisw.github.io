@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+<meta name="date" content="2020-08-13" />
+
+<title>บันทึกประสบการณ์ขอข้อมูลระดับย่อย</title>
+
+<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    <span class="fa fa-bars"></span>
+     
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="index.html">Home</a>
+    </li>
+    <li>
+      <a href="aboutme.html">About Me</a>
+    </li>
+    <li>
+      <a href="research.html">Research</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">บันทึกประสบการณ์ขอข้อมูลระดับย่อย</h1>
+<h4 class="date">2020-08-13</h4>
+
+</div>
+
+
+<p>คิดว่าหลายๆคน โดยเฉพาะนักศึกษาป.โทเอกสายสังคม
+น่าจะอยากได้ข้อมูลระดับย่อย (Microdata) มาทำธีสิส
+นี่ก็เป็นคนนึงที่ตอนแรกก็กังวลมากๆว่าจะได้ข้อมูลไหม
+สำนักงานสถิติเขาเปิดให้คนนอกที่ไม่ใช่หน่วยงานราชการใช้หรือเปล่า
+ถ้าอยู่ต่างประเทศจะไปรับข้อมูลมายังไง
+เลยจะมารีวิวประสบการณ์ขอข้อมูลระดับย่อยคร่าวๆตามนี้ค่ะ
+บอกเลยว่าไม่ยากค่ะ หวังว่าจะช่วยลดความเครียดของหลายๆคนนะคะ</p>
+<div id="ศกษาชดขอมลทอยากได" class="section level3">
+<h3>ศึกษาชุดข้อมูลที่อยากได้</h3>
+<p>ก่อนอื่นก็ต้องเช็คก่อนว่าข้อมูลที่เราอยากได้
+หน่วยงานราชการไทยมีเก็บไว้หรือเปล่า จากประสบการณ์ส่วนตัวข้อมูลที่เป็น
+time series ระดับแมคโครจะอยู่ที่เว็บไซต์ของแบงค์ชาติ
+แต่ถ้าเป็นระดับจังหวัดหรือระดับย่อยส่วนมากจะอยู่ที่สำนักงานสถิติค่ะ
+ข้อมูลระดับจังหวัดสามารถดาวน์โหลดได้เลยไม่ต้องทำเรื่องขอค่ะ
+(สามารถดูตัวอย่างเว็บไซต์ที่เก็บข้อมูลรายจังหวัดได้ที่ <a
+href="https://github.com/s-saisw/publicDataScraping">repository github
+อันนี้</a>ของเราค่ะ) แต่ถ้าอยากได้ข้อมูลระดับย่อยสามารถเช็ค<a
+href="http://ddi.nso.go.th/index.php/catalog">คาตาล็อกข้อมูล</a>ได้ที่เว็บไซต์ของสำนักงานสถิติได้เลย</p>
+<p>ทีนี้จะมีข้อควรระวังนิดนึงว่าในคาตาล็อกข้างบนนี้ไม่ได้เก็บรายการข้อมูลของปีเก่าๆไว้
+ก็ต้องกูเกิ้ลดูเพิ่มเติมว่าความจริงแล้วข้อมูลนี้มีตั้งแต่ปีไหนถึงปีไหน
+ถ้าอยากได้ข้อมูลปีเก่าๆที่ไม่ได้อยู่ในคาตาล็อกก็ไม่ต้องกังวลค่ะ
+ทางสำนักงานฯมีเก็บไว้ แค่ไม่ได้อัพโชว์บนเว็บเฉยๆ</p>
+</div>
+<div id="ตดตอสำนกงานสถต" class="section level3">
+<h3>ติดต่อสำนักงานสถิติ</h3>
+<p>ถ้าลองเข้าไปใน<a
+href="http://ddi.nso.go.th/index.php/home">เว็บไซต์ของสำนักงานสถิติ</a>
+ก็จะมีหน้าที่เอาไว้รับเรื่องออนไลน์ สมัครสมาชิกอะไรอย่างงี้
+แต่ไม่รู้ว่าทำอะไรผิดพลาดตรงไหนหรือเปล่า ใช้ระบบนั้นไม่ได้
+เลยส่งเมลไปหาสำนักงานฯโดยตรงเลยค่ะ เมลของสำนักงานฯก็ค่อนข้าง active
+ระดับนึง ต่อให้ตัวอยู่ต่างประเทศก็สะดวกค่ะ
+หรือถ้าอยู่ไทยก็โทรไปได้ค่ะ</p>
+<p>พอส่งเมลไปเกริ่นๆว่าอยากได้ข้อมูลชุดนี้ๆ
+ทางเจ้าหน้าที่ก็ไฟเขียวบอกว่าให้ลองทำเรื่องมาได้เลย</p>
+</div>
+<div id="ทำเรอง" class="section level3">
+<h3>ทำเรื่อง</h3>
+<p>เอกสารที่ต้องส่งสำนักงานก็มี</p>
+<ol style="list-style-type: decimal">
+<li>หนังสือเรียนผู้อำนวยการสำนักงานสถิติ เขียนว่าอยากได้ข้อมูลชุดไหน
+ปีอะไรบ้าง ตามรูปแบบหนังสือราชการ</li>
+<li>เค้าโครงงานวิจัย (proposal) เขียนภาษาไทยก็ได้ ภาษาอังกฤษก็ได้ค่ะ
+เราเขียนภาษาอังกฤษไป</li>
+<li>หนังสือรับรองอาจารย์ที่ปรึกษา
+เนื้อหาประมาณว่าเด็กคนนี้เขียนธีสิสอยู่กับฉันนะ ให้อาจารย์เซ็นชื่อ</li>
+</ol>
+<p>ทั้งหมดนี้ส่งได้ทางเมลค่ะ</p>
+</div>
+<div id="รบขอมล" class="section level3">
+<h3>รับข้อมูล</h3>
+<p>ทำเรื่องไปอาทิตย์นึงทางสำนักงานสถิติส่งเมลพร้อม Data Dictionary
+มาบอกให้เลือกตัวแปรเพราะขอข้อมูลหลายปีเกิน
+ระหว่างนี้ก็มีการเจรจากันนิดหน่อยว่าอยากได้ตัวแปรตัวนี้ๆๆ
+ของเรามีแอบเสียดายตัวแปรบางตัวที่เขาไม่เผยแพร่ด้วย</p>
+<p>หลังจากเลือกตัวแปรแล้วสองอาทิตย์ทางสำนักงานก็ส่งข้อมูลมาให้
+พร้อมกับสัญญาใช้ข้อมูล พอดีอยู่ต่างประเทศ
+ทางสำนักงานฯก็เลยส่งข้อมูลมาให้ทางเมลเลย
+ถ้าอยู่ไทยไม่แน่ใจว่าเป็นยังไง</p>
+<p>ส่วนสัญญาก็ต้องเอาไปให้อาจารย์ที่ปรึกษาเซ็นรับรองเป็นพยานด้วย</p>
+<p>ทั้งหมดนี้ใช้เวลาประมาณ 1 เดือนตั้งแต่ทำเรื่องไปครั้งแรกค่ะ</p>
+</div>
+<div id="นำสงผลงานวจย" class="section level3">
+<h3>นำส่งผลงานวิจัย</h3>
+<p>หลังจากทำธีสิสเสร็จแล้ว
+ก็ต้องทำเรื่องส่งผลงานวิจัยกลับไปที่สำนักงานสถิติ เราส่งไฟล์ pdf
+พร้อมกับหนังสือเรียนผู้อำนวยการไปที่เมลของสำนักงานฯเลยค่ะ</p>
+</div>
+<div id="สรป" class="section level3">
+<h3>สรุป</h3>
+<p>ประเทศไทยมีข้อมูลระดับย่อยดีๆอยู่หลายชุดค่ะ sample size ใหญ่มาก
+ความถูกต้องก็ใช้ได้เลย (อาจจะมารีวิวเรื่องนี้อีกในโอกาสหน้า)
+อาจจะมีตัวแปรบางตัวที่เขาเก็บไว้ใช้ภายในบ้าง
+แต่ตัวแปรที่ได้มาก็ถือว่าทำอะไรได้เยอะค่ะ ลองศึกษาเพิ่มเติมดูนะคะ</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
