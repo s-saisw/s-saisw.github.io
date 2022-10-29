@@ -2,15 +2,27 @@
 title: "Research"
 ---
 
-### Working Papers
+## Working Papers
 
-- Employment Effects of Minimum Wages in Dual Economy: Evidence from Thailand. Revisions requested from *Journal of Development Economics* [Latest draft](https://drive.google.com/file/d/1ph9J3dezvwGT_80yA_vqoUvCBCK0vXzx/view?usp=sharing)
+### Employment Effects of Minimum Wages in Dual Economy: Evidence from Thailand
 
--  The (Non-)surplus Labor in the Informal Sector
+Job market paper; Revisions requested from *Journal of Development Economics* [Latest draft](https://drive.google.com/file/d/1ph9J3dezvwGT_80yA_vqoUvCBCK0vXzx/view?usp=sharing)
 
-- Husband's Death and Widows' Labor Supply Decision: Evidence from Rural Thai Households 
+This study estimates the impact of a minimum wage increase on employment when minimum wage coverage is incomplete. Using as a natural experiment a 60 percent increase in the minimum wage in Thailand whereby 40 percent of workers were not covered by the legislation, we found that one percent increase in the minimum wage reduced low-skilled employment in the covered sector by 0.4 percent and increased employment in the uncovered sector by 0.2 percent. The official unemployment rate also decreased because the rise in the minimum wage lowered the probability of covered employment to such a large extent that workers instead turned to the uncovered sector. Although the average wage in the covered sector increased, it is unclear whether the increased labor supply in the uncovered sector suppressed wages because 70 percent of the wages in the uncovered sector were not observed. 
 
-### Presentations
+### The (Non-)surplus Labor in the Informal Sector
+
+The informal sector is traditionally regarded as an unproductive sector of the economy, that is, individuals treat the informal sector as a last choice of safety net when nothing is available in the formal sector, creating surplus labor. Based on this hypothesis, I investigated whether there is surplus labor in the informal sector. Using an increase in minimum wage in the formal sector as a natural experiment that created a positive labor supply shock to the informal sector, I found one percent increase in the number of workers in the informal sector generated more than three percent increase in value-added in the sector. The results suggested the Thai informal sector was not having labor surplus at the time of the study, and the sector could adjust factor input to accommodate more labor.
+
+### Husband's Death and Widows' Labor Supply Decision: Evidence from Rural Thai Households 
+
+This study investigates the impact of the death of the primary earner of the household on the labor supply decision of the remaining household member, using a novel household panel data set from the Townsend Thai Data Collection. This data allows for the study of households in rural areas, in contrast to literature which often focus on more developed societies with a complete insurance coverage. We employed an Imputation Difference-in-differences estimator by \cite{borusyak2021revisiting} and found death of a husband increased labor supply decision of widows by 60 percent. On the other hand, there was little effect on widowers in the event of wife's death. The results suggested the death insurance coverage was not sufficient for Thai elderly households to overcome a permanent income loss.
+
+## Research Grant
+
+- Bank of Thailand's [Puey Ungphakorn Institute for Economic Research](https://www.pier.or.th/en/about/#top) Grant 2022 for the Project *Husband's Death and Widows' Labor Supply Decision: Evidence from Thai Household Panel*
+
+## Presentations
 
 - Husband's Death and Widows' Labor Supply Decision: Evidence from Rural Thai Households; [Asian and Australasian Society of Labour Economics 2022 Conference](https://www.aasle.org/); December, 2022; University of Tokyo
 
@@ -27,6 +39,3 @@ in Japan & Thailand. UTokyo Center of Contemporary Japanese Studies, TCJS Gradua
 
 - Impact of Minimum Wages on Employment in Dual Economy: Evidence from Thailand. Poster presented at: [The 23rd Tokyo Labor Economics Conference](https://sites.google.com/site/tokyolaborwkshp/home) (第23回労働経済学カンファレンス); October, 2020; Online meeting
 
-### Research Grant
-
-- Bank of Thailand's [Puey Ungphakorn Institute for Economic Research](https://www.pier.or.th/en/about/#top) Grant 2022 for the Project *Husband's Death and Widows' Labor Supply Decision: Evidence from Thai Household Panel*

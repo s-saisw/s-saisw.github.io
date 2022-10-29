@@ -6,5 +6,5 @@ Hi! I'm Saisawat Samutpradit. I'm a PhD student in economics at the University o
 
 ```{r, echo=FALSE, out.width = '30%', fig.align='right'}
 library(knitr)
-knitr::include_graphics("welcomepic.jpg")
+knitr::include_graphics("welcomepic.jpeg")
 ```
