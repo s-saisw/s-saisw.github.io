@@ -2,7 +2,7 @@
 title: "Welcome!"
 ---
 
-Hi! I'm Saisawat Samutpradit. I'm a PhD student in economics at the University of Tokyo. My research interests are in labor and development economics.
+Hi! I'm Saisawat Samutpradit. I'm a Ph.D. candidate in economics at the University of Tokyo. My research interests are in labor and development economics. I am on the 2022-2023 job market and will be available for virtual interviews at any time.
 
 ```{r, echo=FALSE, out.width = '30%', fig.align='right'}
 library(knitr)
