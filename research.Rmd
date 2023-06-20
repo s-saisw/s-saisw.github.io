@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-Please find my research statement [here](https://drive.google.com/file/d/1R9OyidiRlrKcP1TUoETsDvF2MeFB0xCy/view?usp=share_link).
-
 ## Working Papers
 
 ### Employment Effects of Minimum Wages in Dual Economy: Evidence from Thailand
@@ -14,11 +12,9 @@ This study estimates the impact of a minimum wage increase on employment when mi
 
 ### Formal-Informal Labor Allocative Efficiency of Minimum Wages: A Tale from Small Farm Enterprises
 
-This paper studies the production in the informal sector after the minimum wage increase in the formal sector. According to the simplistic two-sector model by Welch (1974), an increase in minimum wage creates an outflow of labor from the formal to the informal sector, but little is known about what happens to production activities in the informal sector afterward. In the spirit of Lewis (1954), because there is surplus labor in the informal sector, production should not increase. However, many empirical studies have disputed the presence of surplus labor. Using a novel minimum wage policy from Thailand, we found the minimum wage increase induced workers to move to the informal sector, and there was an increase in production, contradicting the surplus labor hypothesis. We also found that despite the increase in the number of workers, the marginal product of labor in the informal sector increased. This suggests that newly hired workers brought some specialization that enhanced production substantially. As indirect evidence, we found they were more educated and younger than the existing ones.
 
 ### Husband's Death and Widow's Labor Supply Decision: Evidence from Rural Thai Households 
 
-This study investigates the impact of the death of the primary earner of the household on the labor supply decision of the remaining household member, using a novel household panel data set from the Townsend Thai Data Collection. This data allows for the study of households in rural areas, in contrast to literature which often focus on more developed societies with a complete insurance coverage. We employed an Imputation Difference-in-differences estimator by \cite{borusyak2021revisiting} and found death of a husband increased labor supply decision of widows by 60 percent. On the other hand, there was little effect on widowers in the event of wife's death. The results suggested the death insurance coverage was not sufficient for Thai elderly households to overcome a permanent income loss.
 
 ## Research Grant
 

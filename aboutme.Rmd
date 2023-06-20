@@ -8,28 +8,38 @@ title: "About Me"
 <!-- ``` -->
 <!-- </div> -->
 
-Hi! I'm Saisawat Samutpradit. I'm a PhD student in economics at the University of Tokyo. My research interests are in labor and development economics.
+Hi! I'm Saisawat Samutpradit. I'm a postdoctoral researcher at CREPE (University of Tokyo), and CReAM (University College London). My research interests are in labor and development economics. 
+\
+\
 
-[Download CV as pdf](https://drive.google.com/file/d/1rIA71QZkDG_XeGg5GXFati2DCcPN4BTe/view?usp=sharing)
+I will join the Department of Economics at Osaka University as a tenure-track assistant professor from April 2024.
+\
+\
+
+[Download CV as pdf](https://drive.google.com/file/d/1aNwUhzZ6ktJqRwqa5kiUWE5wB4l0E1Eb/view?usp=drive_link)
+\
+\
+
+### Academic Appointments
+- 2023-present: Project researcher, Center for Research and Education in Program Evaluation (CREPE) - University of Tokyo
+- 2023-present: Senior Research Officer, Centre for Research and Analysis of Migration (CReAM) - University College London
 
 ### Education 
-- Graduate School of Economics, University of Tokyo, 2018-present
-- Faculty of Economics, Hitotsubashi University, 2014-2018
-- Japanese Language Center, Tokyo University of Foreign Studies, 2013-2014
-- Triam Udom Suksa School, Bangkok, Thailand, 2010-2013
+- 2018-2023: Ph.D. in Economics, University of Tokyo
+- 2018-2020: M.A. in Economics, University of Tokyo
+- 2014-2018: B.A. in Economics, Hitotsubashi University
 
 ### Work Experience
-- Research assistant, [Local Government Data Development Project](https://web.iss.u-tokyo.ac.jp/jichitai_data/en/) at [Center for Research and Education in Program Evaluation (CREPE)](http://www.crepe.e.u-tokyo.ac.jp/en/index.html), University of Tokyo, 2021-present
-- Research assistant, Empirical Studies on Japanese Labor Market (Professor Daiji Kawaguchi), Research Institute of Economy, Trade, and Industry (RIETI), 2020-present
-- Intern, Thailand Development Research Institute (TDRI), Summer 2018
-- Intern, Office of the National Economic and Social Development Board (NESDB), Summer 2016
+- 2021-2023: Research assistant, [Local Government Data Development Project](https://web.iss.u-tokyo.ac.jp/jichitai_data/en/) at [Center for Research and Education in Program Evaluation (CREPE)](http://www.crepe.e.u-tokyo.ac.jp/en/index.html), University of Tokyo
+- 2020-2023: Research assistant, Empirical Studies on Japanese Labor Market (Professor Daiji Kawaguchi), Research Institute of Economy, Trade, and Industry (RIETI)
+- 2018: Intern, Thailand Development Research Institute (TDRI)
+- 2016: Intern, Office of the National Economic and Social Development Board (NESDB)
 
 ### Scholarships
-- Scholarship for ASEAN Students, Tokio Marine Kagami Memorial Foundation, 2020-2023
-- Japanese Government Scholarship (MEXT), 2013-2019
+- 2020-2023: Scholarship for ASEAN Students, Tokio Marine Kagami Memorial Foundation
+- 2013-2019: Japanese Government Scholarship (MEXT)
 
 ### Connect with me
-- Email: saisawat-s@g.ecc.u-tokyo.ac.jp
 - [Github Profile](https://github.com/s-saisw)
 - [Twitter](https://twitter.com/saisawatSamut)
 - [Linkedin](https://www.linkedin.com/in/saisawat-samutpradit-ab64351b7/)

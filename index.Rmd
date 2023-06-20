@@ -5,14 +5,13 @@ title: "Welcome!"
 :::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
 
 ::: {}
-Hi! I'm Saisawat Samutpradit. I'm a Ph.D. candidate in economics at the University of Tokyo. My research interests are in labor and development economics. I am on the 2022-2023 job market and will be available for virtual interviews at any time.
-
+Hi! I'm Saisawat Samutpradit. I'm a postdoctoral researcher at CREPE (University of Tokyo), and CReAM (University College London). My research interests are in labor and development economics. 
 \
 \
 \
 
-### `r fontawesome::fa("bullhorn")` News
-I will be available in person at the [AASLE2022 Tokyo Conference](https://www.aasle.org/tokyo-job-market-candidates).
+<!-- ### `r fontawesome::fa("bullhorn")` News -->
+<!-- I'm joining CREPE as a postdoctoral researcher from May 2023! -->
 :::
 
 ::: {}
