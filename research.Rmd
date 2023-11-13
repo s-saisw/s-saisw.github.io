@@ -4,16 +4,11 @@ title: "Research"
 
 ## Working Papers
 
-### Employment Effects of Minimum Wages in Dual Economy: Evidence from Thailand
+- Employment Effects of Minimum Wages in Dual Economy: Evidence from Thailand <font size="1"> Job market paper; Accepted at *Journal of Development Economics* [Latest draft](https://drive.google.com/file/d/16RGwQSYVNAKzSWGohDojoHJSc42aX1Eq/view?usp=share_link) </font> 
 
-Job market paper; Revisions requested from *Journal of Development Economics* [Latest draft](https://drive.google.com/file/d/16RGwQSYVNAKzSWGohDojoHJSc42aX1Eq/view?usp=share_link)
+- Formal-Informal Labor Allocative Efficiency of Minimum Wages: A Tale from Small Farm Enterprises
 
-This study estimates the impact of a minimum wage increase on employment when minimum wage coverage is incomplete. Using as a natural experiment a 60 percent increase in the minimum wage in Thailand whereby 40 percent of workers were not covered by the legislation, we found that one percent increase in the minimum wage reduced low-skilled employment in the covered sector by 0.4 percent and increased employment in the uncovered sector by 0.2 percent. The official unemployment rate also decreased because the rise in the minimum wage lowered the probability of covered employment to such a large extent that workers instead turned to the uncovered sector. Although the average wage in the covered sector increased, it is unclear whether the increased labor supply in the uncovered sector suppressed wages because 70 percent of the wages in the uncovered sector were not observed. 
-
-### Formal-Informal Labor Allocative Efficiency of Minimum Wages: A Tale from Small Farm Enterprises
-
-
-### Husband's Death and Widow's Labor Supply Decision: Evidence from Rural Thai Households 
+- Husband's Death and Widow's Labor Supply Decision: Evidence from Rural Thai Households 
 
 
 ## Research Grant
@@ -21,19 +16,23 @@ This study estimates the impact of a minimum wage increase on employment when mi
 - Bank of Thailand's [Puey Ungphakorn Institute for Economic Research](https://www.pier.or.th/en/about/#top) Grant 2022 for the Project *Husband's Death and Widows' Labor Supply Decision: Evidence from Thai Household Panel*
 
 ## Presentations
+- [Asian and Australasian Society of Labour Economics 2023 Conference](https://www.aasle.org/); December, 2023; National Taiwan University
 
-- Husband's Death and Widows' Labor Supply Decision: Evidence from Rural Thai Households; [Asian and Australasian Society of Labour Economics 2022 Conference](https://www.aasle.org/); December, 2022; University of Tokyo
+- PIER Exchange; December, 2023; Puey Ungphakorn Institute for Economic Research, Bank of Thailand, Online event
 
-- Husband's Death and Widows' Labor Supply Decision: Evidence from Rural Thai Households; The 25th Tokyo Labor Economics Conference (第25回労働経済学カンファレンス); September, 2022; Online meeting
+- IFS-UCL-LSE/STICERD Development WiP Seminar; October, 2023; Institute for Fiscal Studies
 
-- Employment Effects of Minimum Wages in Dual Economy: Evidence from Thailand. [Asian and Australasian Society of Labour Economics 2021 Conference](https://www.aasle.org/); December, 2021; Peking University, Online Event
+- [Asian and Australasian Society of Labour Economics 2022 Conference](https://www.aasle.org/); December, 2022; University of Tokyo
 
-- Impact of Minimum Wages on Employment in Dual Economy: Evidence from Thailand. Poster presented at [SSSI Summer School on Socioeconomic Inequality](https://hceconomics.uchicago.edu/sssi.uchicago.edu); August, 2021; Online meeting
+- The 25th Tokyo Labor Economics Conference (第25回労働経済学カンファレンス); September, 2022; Online meeting
 
-- Impact of Minimum Wages on Employment in Dual Economy: Evidence from Thailand. [The 15th Applied Econometrics Conference](http://www.crepe.e.u-tokyo.ac.jp/index.html)(第15回応用計量経済学コンファレンス); November, 2020; Online meeting
+- [Asian and Australasian Society of Labour Economics 2021 Conference](https://www.aasle.org/); December, 2021; Peking University, Online Event
 
-- Effect of Minimum Wages on Formal and Informal Employment
-in Japan & Thailand. UTokyo Center of Contemporary Japanese Studies, TCJS Graduate Student Forum; November, 2020; Online meeting
+- [SSSI Summer School on Socioeconomic Inequality](https://hceconomics.uchicago.edu/sssi.uchicago.edu); August, 2021; Online meeting
 
-- Impact of Minimum Wages on Employment in Dual Economy: Evidence from Thailand. Poster presented at: [The 23rd Tokyo Labor Economics Conference](https://sites.google.com/site/tokyolaborwkshp/home) (第23回労働経済学カンファレンス); October, 2020; Online meeting
+- [The 15th Applied Econometrics Conference](http://www.crepe.e.u-tokyo.ac.jp/index.html)(第15回応用計量経済学コンファレンス); November, 2020; Online meeting
+
+- TCJS Graduate Student Forum; UTokyo Center of Contemporary Japanese Studies; November, 2020; Online meeting
+
+- [The 23rd Tokyo Labor Economics Conference](https://sites.google.com/site/tokyolaborwkshp/home) (第23回労働経済学カンファレンス); October, 2020; Online meeting
 
