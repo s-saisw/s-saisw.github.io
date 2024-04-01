@@ -5,7 +5,7 @@ title: "Welcome!"
 :::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
 
 ::: {}
-Hi! I'm Saisawat Samutpradit. I'm a postdoctoral researcher at CREPE (University of Tokyo), and CReAM (University College London). My research interests are in labor and development economics. 
+Hi! I'm Saisawat Samutpradit. I'm a tenure-track assistant professor at the Department of Economics, Osaka University. My research interests are in labor and development economics. 
 \
 \
 \
