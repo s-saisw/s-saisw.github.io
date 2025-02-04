@@ -7,37 +7,10 @@ title: "Research"
 - Saisawat Samutpradit (2024) "[Employment Effects of Minimum Wages in a Dual Economy: Evidence from Thailand](https://www.sciencedirect.com/science/article/abs/pii/S0304387823001694?via%3Dihub)" *Journal of Development Economics*, 168, 103213
 
 
-## Working Papers
+<!-- ## Selected Work-in-progress -->
 
-- Formal-Informal Labor Allocative Efficiency of Minimum Wages: A Tale from Small Farm Enterprises
+<!-- - Formal-Informal Labor Allocative Efficiency of Minimum Wages: A Tale from Small Farm Enterprises -->
 
-- Surviving Loss: Coping Strategies among Widow Households in Thai Rural Areas <font size="1">[Discussion Paper](https://www.pier.or.th/dp/213/) </font>
+<!-- - Surviving Loss: Coping Strategies among Widow Households in Thai Rural Areas <font size="1">[Discussion Paper](https://www.pier.or.th/dp/213/) </font> -->
 
-## Research Grant
-
-- Bank of Thailand's [Puey Ungphakorn Institute for Economic Research](https://www.pier.or.th/en/about/#top) Grant 2022 for the Project *Husband's Death and Widows' Labor Supply Decision: Evidence from Thai Household Panel*
-
-## Presentations
-
-- CReAM Brown Bag Seminar; March, 2024; University College London
-
-- [Asian and Australasian Society of Labour Economics 2023 Conference](https://www.aasle.org/); December, 2023; National Taiwan University
-
-- PIER Exchange; December, 2023; Puey Ungphakorn Institute for Economic Research, Bank of Thailand, Online event
-
-- IFS-UCL-LSE/STICERD Development WiP Seminar; October, 2023; Institute for Fiscal Studies
-
-- [Asian and Australasian Society of Labour Economics 2022 Conference](https://www.aasle.org/); December, 2022; University of Tokyo
-
-- The 25th Tokyo Labor Economics Conference (第25回労働経済学カンファレンス); September, 2022; Online meeting
-
-- [Asian and Australasian Society of Labour Economics 2021 Conference](https://www.aasle.org/); December, 2021; Peking University, Online Event
-
-- [SSSI Summer School on Socioeconomic Inequality](https://hceconomics.uchicago.edu/sssi.uchicago.edu); August, 2021; Online meeting
-
-- [The 15th Applied Econometrics Conference](http://www.crepe.e.u-tokyo.ac.jp/index.html)(第15回応用計量経済学コンファレンス); November, 2020; Online meeting
-
-- TCJS Graduate Student Forum; UTokyo Center of Contemporary Japanese Studies; November, 2020; Online meeting
-
-- [The 23rd Tokyo Labor Economics Conference](https://sites.google.com/site/tokyolaborwkshp/home) (第23回労働経済学カンファレンス); October, 2020; Online meeting
-
+<!-- - Microcredit Expansion and Education: Evidence from a Quasi-Experiment in Thailand (with Xinwei Dong) -->

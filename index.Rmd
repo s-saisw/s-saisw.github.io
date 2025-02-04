@@ -8,14 +8,20 @@ title: "Welcome!"
 Hi! I'm Saisawat Samutpradit. I'm a tenure-track assistant professor at the Department of Economics, Osaka University. My research interests are in labor and development economics. 
 \
 \
+[Download CV as pdf](https://drive.google.com/file/d/1aNwUhzZ6ktJqRwqa5kiUWE5wB4l0E1Eb/view?usp=drive_link)
 \
+\
+
+### Connect with me
+- [Github Profile](https://github.com/s-saisw)
+- [Twitter](https://twitter.com/saisawatSamut)
 
 <!-- ### `r fontawesome::fa("bullhorn")` News -->
 <!-- I'm joining CREPE as a postdoctoral researcher from May 2023! -->
 :::
 
 ::: {}
-```{r, echo=FALSE, out.width = '50%', fig.align='center'}
+```{r, echo=FALSE, out.width = '50%', fig.align='center', warning=FALSE}
 library(knitr)
 knitr::include_graphics("welcomepic.jpeg")
 ```

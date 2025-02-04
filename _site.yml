@@ -5,8 +5,6 @@ navbar:
       menu:
         - text: Home
           href: index.html
-        - text: About Me
-          href: aboutme.html
         - text: Research
           href: research.html
         - text: Teaching
